@@ -8,3 +8,39 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+
+body{
+    background-color: #540B51;
+    
+}
+nav {
+   background-color:
+   height: 50px;
+   flex-direction:
+   justify-content:row;
+ 
+}
+nav ul{
+    display: none;
+}
+    
+
+#slack-logo{
+    width: 100px;
+}
+header img{
+    width: 100px;
+}
+header button img{
+    width: 50px;
+    height: 100px;
+}
+main div{
+    width: 10px;
+    display: flex;
+}
+
+@media (width <= 768px){
+    
+}
